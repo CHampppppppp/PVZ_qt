@@ -1,11 +1,4 @@
-# PVZ_qt
-一个基于qt，c++的植物大战僵尸游戏（原始改编版）
-
 我是champ，正是计算机大二学生。这是一个利用qt写的植物大战僵尸游戏（带有个人改编）。模仿借鉴于大佬geekexplorer的PVZ项目。
-
-Hi,my name is champ, currently a cs student. this is a plant vs zombie game developed by c++ and qt(with personal reference).
-
-inspired by master geeeeekexploer.
 
 功能：原版具有的所有功能，加上自创两个按键
 
@@ -15,65 +8,10 @@ inspired by master geeeeekexploer.
 
 项目截图如下：
 
-project snipaste:
-
-<img width="1020" alt="image" src="https://github.com/user-attachments/assets/74028880-ab69-4f76-8c74-ed3654b57a79">
-
-
-<img width="1020" alt="image" src="https://github.com/user-attachments/assets/80c522c6-53ee-4427-b52d-43e860287e65">
-
-
-按键1“freeze”效果：
-
-<img width="1020" alt="image" src="https://github.com/user-attachments/assets/a7016a1e-b602-4d67-b4e3-bb6e497c1e54">
-
-
-按键2“power“：
-
+<img width="767" alt="Snipaste_2024-10-16_14-45-08" src="https://github.com/user-attachments/assets/affbbc41-c86a-42d5-90d0-ffc4fe1d61db">
 
 对向日葵sunflower使用"power":
 
+<img width="767" alt="Snipaste_2024-10-16_14-45-29" src="https://github.com/user-attachments/assets/a0676d7a-a6f9-4ee7-aa7b-4ae17cc50a03">
 
-<img width="1020" alt="image" src="https://github.com/user-attachments/assets/062a7b1f-a171-4fa8-960c-92c895352b6d">
-
-
-对双发射手repeater使用“power”：
-
-
-<img width="1020" alt="image" src="https://github.com/user-attachments/assets/5f2846e5-cfb5-4dd3-9aab-5ce1c976e4eb">
-
-
-对寒冰射手snowpeashooter使用“power”：发射五颗可以完全冰冻住僵尸的豌豆
-
-Use 'power' on the snowpeahooter: Launch five peas that can completely freeze zombies
-
-对土豆地雷potatomine使用“power”：瞬间钻到地上并且恢复卡片冷却
-
-Use 'power' on potatomine: instantly dive to the ground and restore card cooldown
-
-对坚果wallnut使用“power”：一段时间内连续恢复血量，最多能恢复至原血量的两倍
-
-Use 'power' on the wallnut: continuously restore health for a period of time, up to twice the original health
-
-其他的植物尚未实现“power”功能，预期加入更多植物和僵尸。
-
-Other plants have not yet achieved the 'power' function, and more plants and zombies are expected to be added.
-
-如：
-
-1.圣坚果，被攻击时发出光芒，吸收周围僵尸的血量并回复至自己身上，对吸血鬼僵尸有奇效（减速）。
-
-2.吸血鬼僵尸，吸取自身圆形范围内的所有植物的血量，恢复自己的血量，速度大于橄榄球僵尸，但害怕阳光。
-
-3.如果有志同道合的同志，欢迎交流>_<(主页有联系方式)
-
-For example:
-
-1. Holy Nut emits light when attacked, absorbs the health of surrounding zombies and restores it to itself, with a miraculous effect on vampire zombies (slowing down).
-  
-2. Vampire zombies absorb the health of all plants within their circular range, restore their own health, and have a faster speed than rugby zombies, but are afraid of sunlight.
-  
-3. If there are like-minded comrades, welcome to communicate>_<(Contact information is available on the homepage)
-
-
-
+<img width="769" alt="Snipaste_2024-10-16_14-45-45" src="https://github.com/user-attachments/assets/8356374e-0fe4-4bdb-8a5c-fac9a0f125a3">
