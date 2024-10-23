@@ -3,6 +3,10 @@
 
 我是champ，正是计算机大二学生。这是一个利用qt写的植物大战僵尸游戏（带有个人改编）。模仿借鉴于大佬geekexplorer的PVZ项目。
 
+Hi,my name is champ, currently a cs student. this is a plant vs zombie game developed by c++ and qt(with personal reference).
+
+inspired by master geeeeekexploer.
+
 功能：原版具有的所有功能，加上自创两个按键
 
 按键1：freeze，一键减速场上所有僵尸
@@ -10,6 +14,8 @@
 按键2：power，增强植物/僵尸的能力（高度扩展性，可高度自定义）
 
 项目截图如下：
+
+project snipaste:
 
 <img width="1020" alt="image" src="https://github.com/user-attachments/assets/74028880-ab69-4f76-8c74-ed3654b57a79">
 
