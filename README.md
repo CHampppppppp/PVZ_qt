@@ -11,10 +11,30 @@
 
 项目截图如下：
 
-<img width="767" alt="Snipaste_2024-10-16_14-45-08" src="https://github.com/user-attachments/assets/affbbc41-c86a-42d5-90d0-ffc4fe1d61db">
+<img width="1020" alt="image" src="https://github.com/user-attachments/assets/74028880-ab69-4f76-8c74-ed3654b57a79">
+
+<img width="1020" alt="image" src="https://github.com/user-attachments/assets/80c522c6-53ee-4427-b52d-43e860287e65">
+
+
+按键1“freeze”效果：
+
+<img width="1020" alt="image" src="https://github.com/user-attachments/assets/a7016a1e-b602-4d67-b4e3-bb6e497c1e54">
+
+按键2“power“：
 
 对向日葵sunflower使用"power":
 
-<img width="767" alt="Snipaste_2024-10-16_14-45-29" src="https://github.com/user-attachments/assets/a0676d7a-a6f9-4ee7-aa7b-4ae17cc50a03">
+<img width="1020" alt="image" src="https://github.com/user-attachments/assets/062a7b1f-a171-4fa8-960c-92c895352b6d">
 
-<img width="769" alt="Snipaste_2024-10-16_14-45-45" src="https://github.com/user-attachments/assets/8356374e-0fe4-4bdb-8a5c-fac9a0f125a3">
+对双发射手repeater使用“power”：
+
+<img width="1020" alt="image" src="https://github.com/user-attachments/assets/5f2846e5-cfb5-4dd3-9aab-5ce1c976e4eb">
+
+
+
+
+
+
+
+
+
