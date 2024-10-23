@@ -45,15 +45,15 @@ project snipaste:
 
 对寒冰射手snowpeashooter使用“power”：发射五颗可以完全冰冻住僵尸的豌豆
 
-Use 'power' on the ice shooter snowpeahooter: Launch five peas that can completely freeze zombies
+Use 'power' on the snowpeahooter: Launch five peas that can completely freeze zombies
 
 对土豆地雷potatomine使用“power”：瞬间钻到地上并且恢复卡片冷却
 
-Use 'power' on potato mine potatomine: instantly dive to the ground and restore card cooldown
+Use 'power' on potatomine: instantly dive to the ground and restore card cooldown
 
 对坚果wallnut使用“power”：一段时间内连续恢复血量，最多能恢复至原血量的两倍
 
-Use 'power' on the walnut: continuously restore health for a period of time, up to twice the original health
+Use 'power' on the wallnut: continuously restore health for a period of time, up to twice the original health
 
 其他的植物尚未实现“power”功能，预期加入更多植物和僵尸。
 
