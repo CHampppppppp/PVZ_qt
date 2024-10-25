@@ -1,3 +1,7 @@
+打开方式：下载代码和qt后，在qt中打开“pvzfresh.pro"文件，其他cpp和h文件会自动加载。
+
+how to open in qt:download code and qt, open "pvzfresh.pro" file in qt and all other files will show up automatically.
+
 我是champ，正是计算机大二学生。这是一个利用qt写的植物大战僵尸游戏（带有个人改编）。模仿借鉴于大佬geekexplorer的PVZ项目。
 
 Hi, my name is champ,currently a cs student. this is a plant vs zombie game developed by c++ and qt(with personal reference).
