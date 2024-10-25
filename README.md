@@ -60,6 +60,9 @@ Use 'power' on the Ice Shooter: Launch five peas that can completely freeze zomb
 
 Use "power" on nuts: restore blood volume within a certain period of time, up to twice the original blood volume
 
+对樱桃炸弹“cherrybomb”：在附近克隆一个cherrybomb，爆炸造成二次伤害
+
+Use "power" on cherrybomb:clone another cherrybomb nearby and explode
 
 对僵尸使用“power”：增加僵尸的速度
 
