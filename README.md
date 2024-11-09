@@ -82,7 +82,7 @@ Use "power" on zombies: increase zombies' speed
 
 2.吸血鬼僵尸：移动速度较快，能吸收以自身为圆心对圆形范围内所有植物的血量以恢复自己的血量，遇到圣光减速
 
-3.欢迎志同道合的同志交流探讨合作，有意者在主页见我联系方式(I can speak English!)
+3.欢迎志同道合的同志交流探讨合作，有意者在主页见我联系方式(can speak English)
 
 Personalized power for other plants and zombies still needs to be realized
 
