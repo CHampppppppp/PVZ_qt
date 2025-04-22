@@ -2,14 +2,12 @@
 
 how to open in qt:download code and qt, open "pvzfresh.pro" file in qt and all other files will show up automatically.
 
-我是champ，正是计算机大二学生。这是一个利用qt写的植物大战僵尸游戏（带有个人改编）。模仿借鉴于大佬geekexplorer的PVZ项目。
+这是一个利用qt写的植物大战僵尸游戏（带有个人改编）。模仿借鉴于大佬geekexplorer的PVZ项目。
 
-Hi, my name is champ,currently a cs student. this is a plant vs zombie game developed by c++ and qt(with personal reference).
-
-Inspired by master geeeekexploer
+This is a plant vs zombie game developed by c++ and qt(with personal reference). Inspired by geeeekexploer.
 
 
-功能：原版具有的所有功能，加上自创两个按键
+功能：原版具有的所有功能，加上自创两个功能按键。
 
 
 按键1：freeze，一键减速场上所有僵尸
