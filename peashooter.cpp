@@ -23,9 +23,12 @@ void peashooter::advance(int phase)
     {
         delete this;
     }
-    else if(++counter>=time)
+    else if(++counter%time==0)
     {
-        counter=0;
+        if(counter>80){
+            counter=0;
+            time=100;
+        }
         QList<QGraphicsItem*> items=collidingItems();
         if(!items.isEmpty())// 当前行有僵尸
         {
@@ -62,8 +65,8 @@ void peashooter::mousePressEvent(QGraphicsSceneMouseEvent *event)
         {
             QGraphicsItem* item=scene()->itemAt(QPoint(918,60),transform());
             Button* button=qgraphicsitem_cast<Button*>(item);
-            time=1;
-            counter=0;
+            time=5;//射击冷却时间
+            counter=0;//射击计时器
             button->counter=0;
             button->state=0;
             state=0;
